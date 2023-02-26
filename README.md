@@ -1,2 +1,2 @@
 # MyPortfolio
- Showcase of my
+ Showcase of some projects using Bootstrap to build my page.
